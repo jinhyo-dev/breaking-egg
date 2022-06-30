@@ -1,0 +1,52 @@
+.number {
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 5rem;
+}
+
+.imageContainer {
+  margin-top: 10vh;
+  text-align: center;
+}
+
+.notBrokenEgg {
+  width: 13rem;
+}
+
+.notBrokenEgg:active {
+  width: 14rem;
+}
+
+.littleBrokenEgg {
+ width: 13.5rem;
+}
+
+.littleBrokenEgg:active {
+  width: 14.5rem;
+}
+
+.muchBrokenEgg {
+  width: 13rem;
+}
+
+.muchBrokenEgg:active {
+  width: 14rem;
+}
+
+.chickContainer {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chick {
+  text-align: center;
+  width: 30%;
+  min-width: 15rem;
+  max-width: 20rem;
+}
+
+.btn {
+  margin-left: auto;
+  margin-right: auto;
+}
